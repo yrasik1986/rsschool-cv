@@ -11,7 +11,7 @@ C/C++, C#, SQL, git, LabView, VisualStudio
 https://github.com/yrasik1986
 #### 5. Experience 
 laboratory work in C / C ++, C ++, SQL, Qt
-#### 6. Education 
+#### 6. Education    
 IIT BSUIR 2021
 software engineer
 #### 7. English
