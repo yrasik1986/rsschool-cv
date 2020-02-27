@@ -1,7 +1,7 @@
 # Yury Aliakseyu
 ***
 #### 1. Contact : 
-* yrasik1986@bk.ru 
+* yrasik1986@bk.ru     
 * +375-29-2342952
 #### 2. Summary
 At the moment I am studying at BSUIR and I want to become an IOS developer in the future.
