@@ -1,6 +1,6 @@
 # Yury Aliakseyu
 ***
-#### 1. Contact: 
+#### 1. Contact : 
 * yrasik1986@bk.ru 
 * +375-29-2342952
 #### 2. Summary
